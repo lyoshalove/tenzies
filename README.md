@@ -1,4 +1,4 @@
-# Mu first project on React
+# My first project on React
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
